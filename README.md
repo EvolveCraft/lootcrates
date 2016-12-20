@@ -1,0 +1,1 @@
+<img src="https://github.com/EvolvedCraft/lootcrates/blob/master/logo.png" alt="logo.png"/>
